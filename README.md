@@ -163,7 +163,7 @@ java -jar product-service.jar --spring.profiles.active=prod
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/shreemansu/product-service-api.git
+git clone https://github.com/shreemansu/Product-Service-Api.git
 cd product-service
 
 # 2. Set up the database
